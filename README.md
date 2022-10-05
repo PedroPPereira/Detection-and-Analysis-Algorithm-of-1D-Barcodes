@@ -1,4 +1,4 @@
-# Low-Level Detection and Reading of 1D Barcodes
+# Detection and Analysis Algorithm of 1D Barcodes
 
 **Course:** Sensorial Systems
 
