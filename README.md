@@ -12,7 +12,7 @@
 
 **Technologies Used:** C#
 
-**Brief Description:** Detection and reading of 1D barcodes, equivalent to the existing barcodes on several products. The defined barcode format is EAN-13, characterized by having 13 digits. The images used for testing ranges from the simplest situation, such as an image with only the barcode, aligned, without noise and with good quality, to more realistic images with other unwanted elements, different angles, inclination and noise.
+**Brief Description:** Detection and reading of 1D barcodes, equivalent to the existing barcodes on several products. The defined barcode format is EAN-13, characterized by having 13 digits. The images used for testing ranges from the simplest situation, such as an image with only the barcode, aligned, without noise and with good quality, to more realistic images with other unwanted elements like different angles, tilt, noise, and multiple barcodes on a single image.
 
 **System Architecture:** (no third-party image processing libraries used)
 - Barcode Identification
